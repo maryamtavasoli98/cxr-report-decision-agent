@@ -1,0 +1,9 @@
+{
+ "seeds": [0, 1, 2, 3, 4],
+ "test_frac": 0.2,
+ "val_frac": 0.2,
+ "findings": ["cardiomegaly", "pleural effusion", "atelectasis", "opacity", "pulmonary edema", "pneumonia", "emphysema", "nodule"],
+ "confident_threshold": 0.9,
+ "bootstrap": 1000,
+ "audit_random_controls": 1
+}

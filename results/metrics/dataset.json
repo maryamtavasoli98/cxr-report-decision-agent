@@ -1,0 +1,24 @@
+{
+ "source": "Open-i NLMCXR_reports.tgz (Indiana University Chest X-ray Collection, CC BY-NC-ND 4.0)",
+ "n_reports": 3927,
+ "n_with_impression": 3921,
+ "n_with_findings": 3425,
+ "positives_per_finding": {
+  "cardiomegaly": 375,
+  "pleural effusion": 161,
+  "atelectasis": 332,
+  "opacity": 455,
+  "pulmonary edema": 46,
+  "pneumonia": 42,
+  "emphysema": 98,
+  "nodule": 111
+ },
+ "environment": {
+  "python": "3.13.7",
+  "numpy": "2.5.5",
+  "scikit_learn": "1.9.1",
+  "machine": "arm64",
+  "platform": "Darwin",
+  "compute": "CPU only"
+ }
+}
